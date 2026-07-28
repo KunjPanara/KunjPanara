@@ -9,10 +9,6 @@
 
 *"Passionate about building scalable backend applications and continuously learning modern technologies."*
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 </div>
 
 ---
