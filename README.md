@@ -1,143 +1,218 @@
-````html
-<!-- ======================== HEADER ======================== -->
+````md
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Kunj</h1>
+# 👋 Hi, I'm Kunj
 
-<h3 align="center">
-🐍 Python Developer • 📊 Aspiring Business Analyst
-</h3>
+### 🐍 Python Developer | 📊 Aspiring Business Analyst
 
-<p align="center">
-Building scalable applications with Python while exploring the intersection of technology, data, and business.
-</p>
+> *Building software that solves problems and using data to make better decisions.*
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Enthusiast;Future+Business+Analyst;Always+Learning+Something+New" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🔭 Currently building **Python & Django** projects
-- 🌱 Learning **Advanced Django**, **Business Analysis**, and **Data Analytics**
-- 📊 Passionate about solving business problems using data
-- 💡 Interested in Backend Development, Automation & Analytics
-- 🎯 Goal: Become a Python Developer & Business Analyst
-
----
-
-## 🛠️ Tech Stack
-
-<h3>Languages</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
-</p>
-
-<h3>Frameworks</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=django" />
-</p>
-
-<h3>Databases</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
-
-<h3>Python Libraries</h3>
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-5B8FB9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-4CAF50?style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 Currently Learning
-
-- Django REST Framework
-- REST APIs
-- PostgreSQL Optimization
-- Business Analysis
-- Data Visualization
-- Software Architecture
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 📌 Current Focus
+## 🚀 About Me
 
 ```python
-class Developer:
+class Kunj:
 
-    name = "Kunj"
+    role = "Python Developer"
 
-    role = [
-        "Python Developer",
-        "Business Analyst"
+    aspiring = "Business Analyst"
+
+    interests = [
+        "Backend Development",
+        "Data Analytics",
+        "Business Intelligence",
+        "Automation",
+        "Web Scraping"
     ]
 
-    tech_stack = [
-        "Python",
-        "Django",
-        "JavaScript",
-        "PostgreSQL",
-        "MongoDB"
-    ]
-
-    learning = [
-        "Business Analysis",
-        "REST APIs",
-        "System Design",
-        "Data Analytics"
-    ]
-
-    motto = "Learn • Build • Improve"
+    motto = "Build • Learn • Improve"
 ```
+
+- 🔭 Building backend projects with **Python & Django**
+- 🌱 Learning **Business Analysis**, **REST APIs**, and **Data Analytics**
+- 📈 Interested in solving real-world business problems through technology
+- 💬 Always excited to learn new tools and best practices
 
 ---
 
-## 🤝 Connect With Me
+# 💻 Tech Stack
 
-<p align="left">
+<table>
+<tr>
+<td align="center" width="96">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>
+Python
+
+</td>
+
+<td align="center" width="96">
+
+<img src="https://skillicons.dev/icons?i=django" width="48"/><br>
+Django
+
+</td>
+
+<td align="center" width="96">
+
+<img src="https://skillicons.dev/icons?i=javascript" width="48"/><br>
+JavaScript
+
+</td>
+
+<td align="center" width="96">
+
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br>
+HTML
+
+</td>
+
+<td align="center" width="96">
+
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br>
+CSS
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>
+PostgreSQL
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>
+MongoDB
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=java" width="48"/><br>
+Java
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br>
+Pandas
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/><br>
+NumPy
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48"/><br>
+Matplotlib
+
+</td>
+
+<td align="center">
+
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48"/><br>
+Seaborn
+
+</td>
+
+<td align="center">
+
+🌐<br>
+BeautifulSoup
+
+</td>
+
+<td></td>
+<td></td>
+
+</tr>
+
+</table>
+
+---
+
+# 📚 Currently Learning
+
+- Django REST Framework
+- Advanced SQL
+- Business Analysis
+- Data Visualization
+- API Development
+- Software Design Patterns
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="65%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Django
+- ✅ Build production-ready backend projects
+- ✅ Learn Business Analysis professionally
+- ✅ Contribute to Open Source
+- ✅ Create impactful data-driven applications
+
+---
+
+# 🌍 Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 </p>
@@ -146,9 +221,9 @@ class Developer:
 
 <div align="center">
 
-### 💭 "Clean Code. Smart Analysis. Continuous Learning."
+### ⭐ Thanks for visiting!
 
-⭐ Thanks for visiting my profile!
+*"First, solve the problem. Then, write the code."*
 
 </div>
 ````
